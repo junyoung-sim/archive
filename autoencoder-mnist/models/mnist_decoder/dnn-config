@@ -1,0 +1,1 @@
+{"layer_config": [[16, 16], [16, 144], [144, 784]], "activation": "relu", "abs_synapse": 1.0, "cost": "MSE", "learning_rate": 0.01}

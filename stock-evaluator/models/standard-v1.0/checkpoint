@@ -1,0 +1,2 @@
+model_checkpoint_path: "standard-v1.0.ckpt-500"
+all_model_checkpoint_paths: "standard-v1.0.ckpt-500"

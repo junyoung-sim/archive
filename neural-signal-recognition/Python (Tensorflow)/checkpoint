@@ -1,0 +1,2 @@
+model_checkpoint_path: "neuralwave_model"
+all_model_checkpoint_paths: "neuralwave_model"
